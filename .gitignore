@@ -1,0 +1,4 @@
+.DS_Store
+
+# Gitignore the data folder. 
+/throw-sequence-optimisation/data/
