@@ -35,3 +35,4 @@ opponent_rolling_6_avg_player_checkouts_attempted,float64,"Opponent's average ch
 previous_h2h_wins,int64,"Total historical wins against this opponent"
 previous_h2h_losses,int64,"Total historical losses against this opponent"
 previous_h2h_differential,int64,"Historical win difference against opponent (wins - losses)"
+is_new_player,int64,"Whether the player is a new player (1 = yes, 0 = no)"
